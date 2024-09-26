@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+th {
+    background-color: yellow;
+}
+
+td {
+    background-color: white;
+}
+
+td:last-child {
+    background-color: pink;
+}
